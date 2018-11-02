@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FireBaseChatPtP</string>
+    <string name="write_messsage_here">Write messsage here</string>
+    <string name="send">Send</string>
+</resources>
